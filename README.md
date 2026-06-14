@@ -45,7 +45,8 @@ The game logic is built using JavaScript and follows these steps:
 
 ## 📸 Preview
 
-(./Preview.png)
+<img width="675" height="693" alt="Preview" src="https://github.com/user-attachments/assets/4a466aa8-8b96-4da4-a08c-776fa45acd5f" />
+
 
 ---
 
